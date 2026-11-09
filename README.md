@@ -175,6 +175,11 @@ help("montecarlo_from_data", package = "babebi")
 
 The reference manual and package documentation are available on [CRAN](https://cran.r-project.org/package=babebi).
 
+
+## Citation
+
+Gianeselli, I., Bosco, A., & Basso, D. (2026). babebi: An R package for Bayesian estimation and validation in small-N two-rater pre–post designs. *Applied Psychological Measurement*. https://doi.org/10.1177/01466216261465754
+
 ## Authors
 
 Irene Gianeselli, Andrea Bosco, and Demis Basso.
